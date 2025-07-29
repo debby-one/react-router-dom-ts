@@ -10,6 +10,9 @@
 *   `react-router-dom` を使用したクライアントサイドのルーティング
 *   ホームページ、アバウトページ、ユーザーページの3つの異なるページへのナビゲーション
 
+## 最新版のNode.jsのインストール
+https://zenn.dev/khsmty/articles/installing_the_latest_nodejs_on_ubuntu_and_debian
+
 ## 技術スタック
 
 *   [React](https://reactjs.org/)
